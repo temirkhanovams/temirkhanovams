@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
 ## Тестирование UI
 :link: Тестовый проект: <a target="_blank" href="https://github.com/temirkhanovams/qa_guru_project_homework_15">qa_guru_project_homework_15</a></br></br>
-![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
+![This is an image](/icons/python.png)![This is an image](/icons/pytest.png)![This is an image](/icons/pycharml.png)![This is an image](/icons/selene.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
 :heavy_check_mark: Реализованы UI-автотесты на проверку работы формы по открытию ИИС/БС, ПИФ, Доверительного управления</br>
 Сайт: <a target="_blank" href="https://invest.akbars.ru/">invest.akbars.ru</a>
 </br>
