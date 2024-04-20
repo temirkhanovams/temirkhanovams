@@ -34,7 +34,7 @@
 # Дипломный проект по автотестированию
 Реализован во время обучения в Школе инженеров по автоматизации тестирования [qa.guru](https://qa.guru)  
 ## Тестирование UI
-[Тестовый проект](https://github.com/temirkhanovams/qa_guru_project_homework_15">qa_guru_project_homework_15)  
+Тестовый проект [qa_guru_project_homework_15](https://github.com/temirkhanovams/qa_guru_project_homework_15)  
 
 Использованные технологии:  
 
@@ -66,11 +66,11 @@
 
 
 ## Тестирование REST API
-[Тестовый проект](https://github.com/temirkhanovams/qa_guru_project_homework_15">qa_guru_project_homework_15) 
+Тестовый проект [qa_guru_project_homework_15](https://github.com/temirkhanovams/qa_guru_project_homework_15)  
 
 
 ## Тестирование мобильного приложения
-[Тестовый проект](https://github.com/temirkhanovams/qa_guru_project_homework_15">qa_guru_project_homework_15) 
+Тестовый проект [qa_guru_project_homework_15](https://github.com/temirkhanovams/qa_guru_project_homework_15)  
 
 - [x] Первоначальная формулировка шагов тесткейсов в Allure Testops и импорт их в IntelliJ Idea
 - [x] Степовой подход для описания Allure Step
@@ -78,7 +78,7 @@
 
 
 ## Первый учебный тестовый проект
-[Тестовый проект:](https://github.com/temirkhanovams/qa_guru_jenkins_homework_12">financisto-mobile-tests)  
+Тестовый проект [qa_guru_jenkins_homework_12](https://github.com/temirkhanovams/qa_guru_jenkins_homework_12)  
 Реализованы UI-автотесты на гитхаб и тестовый сайт DemoQA
 Что особенного:
 
