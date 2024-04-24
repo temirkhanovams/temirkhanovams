@@ -2,12 +2,13 @@
 ### Добро пожаловать!
 Меня зовут Марина. С начала 2020 года я - инженер по тестированию программного обеспечения.  
 
-Немного обо мне, для начала
+Немного обо мне
 
-- 🔭 В настоящее я являюсь manual QA engineer время я работаю над [сайтом Инвестиций Ак Барс Банка](https://invest.akbars.ru/)
+- 🔭 В настоящее время я являюсь manual QA engineer, работаю над сайтом [инвестиций Ак Барс Банка](https://invest.akbars.ru/)
 - 🌱 Активно изучаю автотестирование и внедряю новые знания в рабочий проект. Планирую в ближайщее время стать Auto QA engineer
+- 🔭 В Планах изучать язык программирования Python более углубленно. Для этого сейчас, параллельно с автотестированием, прохожу обучение и по Python
 - 🤔 Интересуюсь также web-разработкой - имеется небольшой опыт в далёком прошлом. 
-- 🌱 Через некоторое время планирую также продолжить самообразование в сфере web-разработки, особенно в сторону React JS или в общем JS
+- 🌱 Через некоторое время планирую продолжить самообразование в сфере web-разработки, особенно в сторону React JS или в общем JS
 - 📫 Как связаться со мной: [Telegram](https://t.me/Marina_T_S), [E-mail](marina01121992@mail.ru)
 - ⚡ Fun fact: Котофил
 
@@ -34,20 +35,23 @@
 # Дипломный проект по автотестированию
 Реализован во время обучения в Школе инженеров по автоматизации тестирования [qa.guru](https://qa.guru)  
 ## Тестирование UI
-Тестовый проект [qa_guru_project_homework_15](https://github.com/temirkhanovams/qa_guru_project_homework_15)  
+Тестовый проект [invest_akbars](https://github.com/temirkhanovams/invest_akbars)  
 
 Использованные технологии:  
 
-![This is an image](/icons/python.png)
-![This is an image](/icons/pytest.png)
-![This is an image](/icons/pycharm.png)
-![This is an image](/icons/selene.png)
-![This is an image](/icons/selenoid.png)
-![This is an image](/icons/jenkins.png)
-![This is an image](/icons/allure_report.png)
-![This is an image](/icons/allure_testops.png)
-![This is an image](/icons/telegram.png)
-![This is an image](/icons/jira.png)
+![python](/icons/python.png)
+![pytest](/icons/pytest.png)
+![pycharm](/icons/pycharm.png)
+![selene](/icons/selene.png)
+![selenium](/icons/selenium.png)
+![selenoid](/icons/selenoid.png)
+![jenkins](/icons/jenkins.png)
+![allure](/icons/allure_report.png)
+![allure_testops](/icons/allure_testops.png)
+![telegram](/icons/telegram.png)
+![jira](/icons/jira.png)
+![github](/icons/github.png)
+![git](/icons/git.png)
 
 Реализованы UI-автотесты на проверку работы формы по открытию ИИС/БС, ПИФ, Доверительного управления  
 Сайт: <a target="_blank" href="https://invest.akbars.ru/">invest.akbars.ru</a>
@@ -66,11 +70,11 @@
 
 
 ## Тестирование REST API
-Тестовый проект [qa_guru_project_homework_15](https://github.com/temirkhanovams/qa_guru_project_homework_15)  
+Тестовый проект [invest_akbars](https://github.com/temirkhanovams/invest_akbars) 
 
 
 ## Тестирование мобильного приложения
-Тестовый проект [qa_guru_project_homework_15](https://github.com/temirkhanovams/qa_guru_project_homework_15)  
+Тестовый проект [invest_akbars](https://github.com/temirkhanovams/invest_akbars)   
 
 - [x] Первоначальная формулировка шагов тесткейсов в Allure Testops и импорт их в IntelliJ Idea
 - [x] Степовой подход для описания Allure Step
