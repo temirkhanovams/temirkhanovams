@@ -116,7 +116,7 @@ ___
 ___
 ___
 # Первый учебный проект по автотестированию
-Тестовый проект [qa_guru_jenkins_homework_12](https://github.com/temirkhanovams/qa_guru_jenkins_homework_12)  
+Проект [qa_guru_jenkins_homework_12](https://github.com/temirkhanovams/qa_guru_jenkins_homework_12)  
 
 Реализован во время обучения в Школе инженеров по автоматизации тестирования [qa.guru](https://qa.guru)  
 
