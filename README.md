@@ -79,7 +79,7 @@ ___
 # Учебный проект по автотестированию сайта invest.akbars.ru
 Реализован во время обучения в Школе инженеров по автоматизации тестирования [qa.guru](https://qa.guru)  
 ### Тестирование UI
-Тестовый проект [invest_akbars](https://github.com/temirkhanovams/invest_akbars)  
+Проект [invest_akbars](https://github.com/temirkhanovams/invest_akbars)  
 
 Использованные технологии:  
 
