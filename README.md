@@ -31,10 +31,50 @@
 <br />
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=temirkhanovams)](https://github.com/temirkhanovams/github-readme-stats)
-
-# Дипломный проект по автотестированию
+# Дипломный проект по автотестированию сайта litres.ru
 Реализован во время обучения в Школе инженеров по автоматизации тестирования [qa.guru](https://qa.guru)  
-## Тестирование UI
+
+Проект [litres_project](https://github.com/temirkhanovams/litres_project)  
+
+Использованные технологии:  
+
+![python](/icons/python.png)
+![pytest](/icons/pytest.png)
+![pycharm](/icons/pycharm.png)
+![selene](/icons/selene.png)
+![selenium](/icons/selenium.png)
+![selenoid](/icons/selenoid.png)
+![jenkins](/icons/jenkins.png)
+![allure](/icons/allure_report.png)
+![allure_testops](/icons/allure_testops.png)
+![telegram](/icons/telegram.png)
+![jira](/icons/jira.png)
+![github](/icons/github.png)
+![git](/icons/git.png)
+
+Реализованы UI и API автотесты на проверку добавления и удаления книги в корзину, в избранное, а также проверка авторизации.  
+Сайт: <a target="_blank" href="https://invest.akbars.ru/">litres.ru</a>
+
+Что особенного:
+
+- [x] Selene 
+- [x] Степовой подход для описания Allure Step
+- [x] Page Object
+- [x] Автотесты API
+- [x] Параметризованная сборка
+- [x] .env
+- [x] Интеграция с Jira
+- [x] Интеграция с Allure + AllureTestOps
+- [x] Запуск тестов на стороне сервера Jenkins
+- [x] Скриншот, видео, логи для каждого теста после его прохождения
+- [x] Тестпланы авто-, API- и ручного тестирования 
+
+___
+___
+___
+# Учебный проект по автотестированию сайта invest.akbars.ru
+Реализован во время обучения в Школе инженеров по автоматизации тестирования [qa.guru](https://qa.guru)  
+### Тестирование UI
 Тестовый проект [invest_akbars](https://github.com/temirkhanovams/invest_akbars)  
 
 Использованные технологии:  
@@ -69,21 +109,13 @@
 - [x] Тестпланы авто- и ручного тестирования
 
 
-## Тестирование REST API
-Тестовый проект [invest_akbars](https://github.com/temirkhanovams/invest_akbars) 
-
-
-## Тестирование мобильного приложения
-Тестовый проект [invest_akbars](https://github.com/temirkhanovams/invest_akbars)   
-
-- [x] Первоначальная формулировка шагов тесткейсов в Allure Testops и импорт их в IntelliJ Idea
-- [x] Степовой подход для описания Allure Step
-- [x] Различные файлы конфигураций для запуска тестов
-
-
-## Первый учебный тестовый проект
+# Первый учебный тестовый проект
 Тестовый проект [qa_guru_jenkins_homework_12](https://github.com/temirkhanovams/qa_guru_jenkins_homework_12)  
-Реализованы UI-автотесты на гитхаб и тестовый сайт DemoQA
+
+Реализован во время обучения в Школе инженеров по автоматизации тестирования [qa.guru](https://qa.guru)  
+
+Реализованы UI-автотесты на сайт [github.com]() и тестовый сайт [demoqa.com]()  
+
 Что особенного:
 
 - [x] Степовой подход для описания Allure Step
