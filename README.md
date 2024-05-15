@@ -31,6 +31,10 @@
 <br />
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=temirkhanovams)](https://github.com/temirkhanovams/github-readme-stats)
+
+___
+___
+___
 # Дипломный проект по автотестированию сайта litres.ru
 Реализован во время обучения в Школе инженеров по автоматизации тестирования [qa.guru](https://qa.guru)  
 
@@ -108,13 +112,28 @@ ___
 - [x] Запуск тестов на стороне сервера Jenkins
 - [x] Тестпланы авто- и ручного тестирования
 
-
-# Первый учебный тестовый проект
+___
+___
+___
+# Первый учебный проект по автотестированию
 Тестовый проект [qa_guru_jenkins_homework_12](https://github.com/temirkhanovams/qa_guru_jenkins_homework_12)  
 
 Реализован во время обучения в Школе инженеров по автоматизации тестирования [qa.guru](https://qa.guru)  
 
 Реализованы UI-автотесты на сайт [github.com](https://github.com) и тестовый сайт [demoqa.com](https://demoqa.com)  
+Использованные технологии:  
+
+![python](/icons/python.png)
+![pytest](/icons/pytest.png)
+![pycharm](/icons/pycharm.png)
+![selene](/icons/selene.png)
+![selenium](/icons/selenium.png)
+![selenoid](/icons/selenoid.png)
+![jenkins](/icons/jenkins.png)
+![allure](/icons/allure_report.png)
+![github](/icons/github.png)
+![git](/icons/git.png)
+
 
 Что особенного:
 
